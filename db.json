@@ -1,0 +1,231 @@
+{
+  "categories": [
+    {
+      "id": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734",
+      "name": "Garden",
+      "createdAt": 1658408129260,
+      "updatedAt": 1658408129260
+    },
+    {
+      "id": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4",
+      "name": "Jewelery",
+      "createdAt": 1658408129261,
+      "updatedAt": 1658408129261
+    },
+    {
+      "id": "aecd38b8-a763-4a74-8367-4823a279653c",
+      "name": "Computers",
+      "createdAt": 1658408129262,
+      "updatedAt": 1658408129262
+    },
+    {
+      "id": "239d9634-8493-4e71-9ca9-ef4cc2c857ca",
+      "name": "Health",
+      "createdAt": 1658408129262,
+      "updatedAt": 1658408129262
+    }
+  ],
+  "products": [
+    {
+      "id": "2cdd3fb5-c90f-47da-91a5-42860f448386",
+      "name": "Gorgeous Frozen Chair",
+      "price": "250.00",
+      "description": "The Football Is Good For Training And Recreational Purposes",
+      "createdAt": 1658408129264,
+      "updatedAt": 1658408129264,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734"
+    },
+    {
+      "id": "4b23cf4b-07f7-4e37-b22e-d1d65926234b",
+      "name": "Generic Frozen Car",
+      "price": "728.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1658408129265,
+      "updatedAt": 1658408129265,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734"
+    },
+    {
+      "id": "544a4456-e644-4a09-88f6-07cb771cc88a",
+      "name": "Handcrafted Plastic Bike",
+      "price": "78.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1658408129266,
+      "updatedAt": 1658408129266,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734"
+    },
+    {
+      "id": "b9b22c7b-2af1-4dd7-9ffe-a4672fc01dea",
+      "name": "Practical Granite Tuna",
+      "price": "163.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1658408129267,
+      "updatedAt": 1658408129267,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734"
+    },
+    {
+      "id": "4cea3597-5b8f-4545-867f-194f9286e762",
+      "name": "Intelligent Wooden Tuna",
+      "price": "973.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1658408129268,
+      "updatedAt": 1658408129268,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "d7e8fa4e-a78b-4a63-8d2d-9dcbc1d08734"
+    },
+    {
+      "id": "f7a824cd-2cd5-4a90-8748-c4ea0e4ff7d2",
+      "name": "Incredible Fresh Bike",
+      "price": "629.00",
+      "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "createdAt": 1658408129269,
+      "updatedAt": 1658408129269,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4"
+    },
+    {
+      "id": "0398394e-5f44-4097-b34d-48e67311277f",
+      "name": "Unbranded Concrete Bacon",
+      "price": "115.00",
+      "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "createdAt": 1658408129270,
+      "updatedAt": 1658408129270,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4"
+    },
+    {
+      "id": "b5f37e8b-3b96-4ba4-95a0-275e3dca8014",
+      "name": "Ergonomic Steel Pants",
+      "price": "892.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1658408129271,
+      "updatedAt": 1658408129271,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4"
+    },
+    {
+      "id": "3afe65ea-9af0-4e7c-bb95-9601116c6732",
+      "name": "Unbranded Metal Pants",
+      "price": "280.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1658408129272,
+      "updatedAt": 1658408129272,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4"
+    },
+    {
+      "id": "21ddcb73-90b3-4df3-9b28-bb9709b955fe",
+      "name": "Handcrafted Cotton Ball",
+      "price": "132.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1658408129275,
+      "updatedAt": 1658408129275,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "1badd8d4-00e2-4b21-a0ad-8f036d4b96a4"
+    },
+    {
+      "id": "59d81b41-78e8-45bc-be25-bb812a79269c",
+      "name": "Handmade Rubber Tuna",
+      "price": "215.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1658408129278,
+      "updatedAt": 1658408129278,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "aecd38b8-a763-4a74-8367-4823a279653c"
+    },
+    {
+      "id": "290dba52-98c9-4006-8c88-bb1e8dd9d284",
+      "name": "Tasty Wooden Fish",
+      "price": "639.00",
+      "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "createdAt": 1658408129280,
+      "updatedAt": 1658408129280,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "aecd38b8-a763-4a74-8367-4823a279653c"
+    },
+    {
+      "id": "d0d4de86-a9f1-4aee-b557-bb29faa27093",
+      "name": "Refined Cotton Fish",
+      "price": "334.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1658408129282,
+      "updatedAt": 1658408129282,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "aecd38b8-a763-4a74-8367-4823a279653c"
+    },
+    {
+      "id": "2ada1ac2-6041-43f5-bbd7-a220ddc9b4ba",
+      "name": "Awesome Rubber Chair",
+      "price": "778.00",
+      "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "createdAt": 1658408129283,
+      "updatedAt": 1658408129283,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "aecd38b8-a763-4a74-8367-4823a279653c"
+    },
+    {
+      "id": "29086900-b983-4839-9b6c-b3e8e3ed0774",
+      "name": "Awesome Concrete Mouse",
+      "price": "403.00",
+      "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "createdAt": 1658408129284,
+      "updatedAt": 1658408129284,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "aecd38b8-a763-4a74-8367-4823a279653c"
+    },
+    {
+      "id": "34072fbb-d17d-4d5d-be28-56eca266dcc6",
+      "name": "Practical Concrete Pizza",
+      "price": "982.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1658408129285,
+      "updatedAt": 1658408129285,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "239d9634-8493-4e71-9ca9-ef4cc2c857ca"
+    },
+    {
+      "id": "31538db5-4a17-42ba-8f57-7f138c527a0c",
+      "name": "Handmade Plastic Table",
+      "price": "845.00",
+      "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "createdAt": 1658408129286,
+      "updatedAt": 1658408129286,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "239d9634-8493-4e71-9ca9-ef4cc2c857ca"
+    },
+    {
+      "id": "4edf6ce2-9dec-49f0-b12f-6edacd9ec40c",
+      "name": "Intelligent Metal Shirt",
+      "price": "841.00",
+      "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "createdAt": 1658408129287,
+      "updatedAt": 1658408129287,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "239d9634-8493-4e71-9ca9-ef4cc2c857ca"
+    },
+    {
+      "id": "95ef4724-5ad8-4aaa-9c56-956d612669ad",
+      "name": "Ergonomic Frozen Computer",
+      "price": "668.00",
+      "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "createdAt": 1658408129288,
+      "updatedAt": 1658408129288,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "239d9634-8493-4e71-9ca9-ef4cc2c857ca"
+    },
+    {
+      "id": "fd9f7946-bf87-444d-85f3-de07cda1c3a1",
+      "name": "Practical Frozen Ball",
+      "price": "374.00",
+      "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "createdAt": 1658408129289,
+      "updatedAt": 1658408129289,
+      "thumbnailUrl": "http://placeimg.com/183/183",
+      "categoryId": "239d9634-8493-4e71-9ca9-ef4cc2c857ca"
+    }
+  ],
+  "profile": { "name": "Po" }
+}
