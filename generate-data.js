@@ -2,7 +2,7 @@ const faker = require("faker");
 const fs = require("fs");
 
 //Set locate to use Vietnamese
-faker.locate = "vi";
+faker.locale = "vi";
 
 // Random data
 console.log(faker.commerce.department());
@@ -38,10 +38,12 @@ const randomProductList = (categoryList, numberOfProducts) => {
         id: faker.random.uuid(),
         name: faker.commerce.productName(),
         price: faker.commerce.price(),
+        quantitySell: faker.random.number(1000),
         description: faker.commerce.productDescription(),
         createdAt: Date.now(),
         updatedAt: Date.now(),
         thumbnailUrl: faker.image.imageUrl(183, 183),
+        images: [],
         categoryId: category.id,
       };
       productList.push(product);
@@ -54,15 +56,12 @@ const randomProductList = (categoryList, numberOfProducts) => {
 // IFFE
 (() => {
   // Random data
-  const categoryList = randomCategoryList(4);
-  const productList = randomProductList(categoryList, 5);
+  const categoryList = randomCategoryList(13);
+  const productList = randomProductList(categoryList, 10);
   // prepare db object
   const db = {
     categories: categoryList,
     products: productList,
-    profile: {
-      name: "Po",
-    },
   };
   // write db object to db.json file
   fs.writeFileSync("db.json", JSON.stringify(db), () => {
