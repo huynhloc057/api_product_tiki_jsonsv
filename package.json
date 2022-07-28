@@ -5,10 +5,10 @@
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon main.js",
+    "dev": "node main.js",
     "start": "concurrently \"npm run auth\" \"npm run dev\"",
     "generate-data": "node generate-data.js",
-    "auth": "nodemon server.js"
+    "auth": "node server.js"
   },
   "keywords": [
     "json-server"

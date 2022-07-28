@@ -100,7 +100,7 @@ server.post("/api/auth/login", (req, res) => {
 
 server.use(router);
 
-const port = process.env.PORT || 5000;
-server.listen(port, () => {
+const PORT = process.env.PORT || 5000;
+server.listen(PORT, () => {
   console.log("Running fake api json server");
 });
