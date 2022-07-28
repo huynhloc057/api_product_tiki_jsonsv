@@ -2,12 +2,12 @@
 # GET http://localhost:8001/categories
 
 # Get All product
-GET http://localhost:8001/categories?
+# GET http://localhost:8001/products
 
 
 
 
 
-# POST http://localhost:5000/api/auth/login
-# Content-Type: application/json
+GET http://localhost:5000/users?name=
+Content-Type: application/json
 

@@ -3,6 +3,7 @@ const fs = require("fs");
 const bodyParser = require("body-parser");
 const jsonServer = require("json-server");
 const jwt = require("jsonwebtoken");
+const router = jsonServer.router("user.json");
 
 const server = jsonServer.create();
 
@@ -33,6 +34,10 @@ function getIndexUsername({ email, password }) {
     (user) => user.email === email && user.password === password
   );
 }
+
+server.get("/echo", (req, res) => {
+  res.jsonp(req.query);
+});
 
 server.post("/api/auth/register", (req, res) => {
   const { name, email, password } = req.body;
@@ -93,6 +98,7 @@ server.post("/api/auth/login", (req, res) => {
   res.status(200).json({ access_token, name });
 });
 
+server.use(router);
 server.listen(5000, () => {
   console.log("Running fake api json server");
 });
