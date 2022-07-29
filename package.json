@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node main.js",
-    "start": "concurrently \"npm run auth\" \"npm run dev\"",
+    "start": "node main.js",
     "generate-data": "node generate-data.js",
     "auth": "node server.js"
   },
