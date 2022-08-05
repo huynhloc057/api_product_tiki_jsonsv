@@ -79,7 +79,6 @@
       "updatedAt": 1658626932626
     }
   ],
-
   "products": [
     {
       "id": "bcef2e40-1d33-40f4-9572-5473616e927f",
@@ -343,7 +342,9 @@
         {
           "thumbnailUrl": "https://salt.tikicdn.com/cache/400x400/ts/product/8e/85/4d/40533f066dacad9d53b7a5704a603127.png.webp"
         },
-        { "thumbnailUrl": "" }
+        {
+          "thumbnailUrl": ""
+        }
       ],
       "categoryId": "522e1c02-fb80-4b1f-8635-063194e49c6a",
       "brandNews": "7up",
@@ -379,7 +380,6 @@
       "brandNews": "Tiger Beer",
       "from": "Việt Nam"
     },
-
     {
       "id": "10af055b-fd79-406a-9ad5-39cfad3d20b7",
       "name": "Bộ Bàn tròn Latte Moka Jang In 1201200001-01",
@@ -1119,8 +1119,12 @@
         {
           "thumbnailUrl": "https://salt.tikicdn.com/cache/400x400/ts/product/92/ae/6a/187407a0acaeda2b625dce69cb9e3426.jpg.webp"
         },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" }
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        }
       ],
       "categoryId": "15b1ddb0-16b2-406c-80a7-9edafd1f115d",
       "brandNews": " Apple",
@@ -1948,9 +1952,15 @@
         {
           "thumbnailUrl": "https://salt.tikicdn.com/ts/review/e1/97/71/79dd9f642466bc05c00f8dcbedad3cc1.jpg"
         },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" }
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        }
       ],
       "categoryId": "5ba6b475-c70b-4412-a5da-dafc04a1eee5",
       "brandNews": "Ecalite",
@@ -2449,10 +2459,18 @@
         {
           "thumbnailUrl": "https://salt.tikicdn.com/cache/400x400/ts/product/6d/0b/2b/38184a8a620c15887920259f52fb0e3a.jpg.webp"
         },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" },
-        { "thumbnailUrl": "" }
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        },
+        {
+          "thumbnailUrl": ""
+        }
       ],
       "categoryId": "1a174ce7-43b2-41d9-b29a-92b3566ab623",
       "brandNews": "",
@@ -4038,7 +4056,6 @@
       "image_url": "https://salt.tikicdn.com/ts/upload/4a/b2/c5/b388ee0e511889c83fab1217608fe82f.png"
     }
   ],
-
   "featurecategories": [
     {
       "id": 44792,

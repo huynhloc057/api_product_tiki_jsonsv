@@ -1,5 +1,5 @@
 # Get All category
-# GET http://localhost:8001/categories
+ GET http://localhost:8001/categories
 
 # Get All product
 # GET http://localhost:8001/products
