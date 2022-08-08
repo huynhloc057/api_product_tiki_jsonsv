@@ -3,78 +3,91 @@
     {
       "id": "522e1c02-fb80-4b1f-8635-063194e49c6a",
       "name": "Bách Hoá",
+      "url": "bach-hoa-online",
       "createdAt": 1658626932615,
       "updatedAt": 1658626932615
     },
     {
       "id": "ffb6e021-efac-489e-8917-51ee5ec23e57",
       "name": "Nhà Cửa",
+      "url": "nha-cua-doi-song",
       "createdAt": 1658626932616,
       "updatedAt": 1658626932616
     },
     {
       "id": "ac674f75-2fc7-4408-96ee-d131fda32922",
       "name": "Điện Tử",
+      "url": "dien-tu-dien-lanh",
       "createdAt": 1658626932617,
       "updatedAt": 1658626932617
     },
     {
       "id": "15b1ddb0-16b2-406c-80a7-9edafd1f115d",
       "name": "Thiết Bị Số",
+      "url": "thiet-bi-kts-phu-kien-so",
       "createdAt": 1658626932618,
       "updatedAt": 1658626932618
     },
     {
       "id": "a7a72461-eda9-4e3a-931c-9043d4e416a8",
       "name": "Điện Thoại",
+      "url": "dien-thoai-may-tinh-bang",
       "createdAt": 1658626932620,
       "updatedAt": 1658626932620
     },
     {
       "id": "2e8c479c-6ddc-455a-b870-8ecbc11b7cd4",
       "name": "Làm Đẹp",
+      "url": "lam-dep-suc-khoe",
       "createdAt": 1658626932620,
       "updatedAt": 1658626932620
     },
     {
       "id": "5ba6b475-c70b-4412-a5da-dafc04a1eee5",
       "name": "Gia Dụng",
+      "url_path": "dien-gia-dung",
       "createdAt": 1658626932621,
       "updatedAt": 1658626932621
     },
     {
       "id": "1a174ce7-43b2-41d9-b29a-92b3566ab623",
       "name": "Thời trang nữ",
+      "url_path": "thoi-trang-nu",
       "createdAt": 1658626932622,
       "updatedAt": 1658626932622
     },
     {
       "id": "795f2955-34f4-4135-b51f-95c439bd4a0f",
       "name": "Thời trang nam",
+      "url_path": "thoi-trang-nam",
       "createdAt": 1658626932623,
       "updatedAt": 1658626932623
     },
     {
       "id": "ad200ea1-a71e-4e55-bfc6-c226554ce60e",
       "name": "Giày nữ",
+      "url_path": "giay-dep-nu",
       "createdAt": 1658626932624,
       "updatedAt": 1658626932624
     },
     {
       "id": "dc82207c-9b22-4ad2-a14e-a8fd07bdd561",
       "name": "Giày nam",
+      "url_path": "giay-dep-nam",
       "createdAt": 1658626932625,
       "updatedAt": 1658626932625
     },
     {
       "id": "8ebffc18-7d9a-4889-9a22-7993b2da8326",
       "name": "Đồng hồ",
+      "url_path": "dong-ho-va-trang-suc",
       "createdAt": 1658626932626,
       "updatedAt": 1658626932626
     },
     {
       "id": "da3c04c5-3eef-41d2-9f5b-b3a9e3cbf4f8",
       "name": "Sách",
+      "url_path": "nha-sach-tiki",
       "createdAt": 1658626932626,
       "updatedAt": 1658626932626
     }
