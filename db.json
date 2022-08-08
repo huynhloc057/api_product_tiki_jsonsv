@@ -3,42 +3,42 @@
     {
       "id": "522e1c02-fb80-4b1f-8635-063194e49c6a",
       "name": "Bách Hoá",
-      "url": "bach-hoa-online",
+      "url_path": "bach-hoa-online",
       "createdAt": 1658626932615,
       "updatedAt": 1658626932615
     },
     {
       "id": "ffb6e021-efac-489e-8917-51ee5ec23e57",
       "name": "Nhà Cửa",
-      "url": "nha-cua-doi-song",
+      "url_path": "nha-cua-doi-song",
       "createdAt": 1658626932616,
       "updatedAt": 1658626932616
     },
     {
       "id": "ac674f75-2fc7-4408-96ee-d131fda32922",
       "name": "Điện Tử",
-      "url": "dien-tu-dien-lanh",
+      "url_path": "dien-tu-dien-lanh",
       "createdAt": 1658626932617,
       "updatedAt": 1658626932617
     },
     {
       "id": "15b1ddb0-16b2-406c-80a7-9edafd1f115d",
       "name": "Thiết Bị Số",
-      "url": "thiet-bi-kts-phu-kien-so",
+      "url_path": "thiet-bi-kts-phu-kien-so",
       "createdAt": 1658626932618,
       "updatedAt": 1658626932618
     },
     {
       "id": "a7a72461-eda9-4e3a-931c-9043d4e416a8",
       "name": "Điện Thoại",
-      "url": "dien-thoai-may-tinh-bang",
+      "url_path": "dien-thoai-may-tinh-bang",
       "createdAt": 1658626932620,
       "updatedAt": 1658626932620
     },
     {
       "id": "2e8c479c-6ddc-455a-b870-8ecbc11b7cd4",
       "name": "Làm Đẹp",
-      "url": "lam-dep-suc-khoe",
+      "url_path": "lam-dep-suc-khoe",
       "createdAt": 1658626932620,
       "updatedAt": 1658626932620
     },
